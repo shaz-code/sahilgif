@@ -1,4 +1,11 @@
-# Build a GIPHY Clone with React JS and Tailwind CSS
-## [Click Here to Watch Full tutorial on Youtube](https://www.youtube.com/watch?v=wtC1_Ea9_wk)
+# Project Title
+React Giphy Clone 🎬
 
-![giphy clone](https://github.com/piyush-eon/react-giphy-clone/assets/51760520/7905c0bf-9a7a-4768-b166-b6b783760437)
+## Description
+This is a personal version of a Giphy clone app built with React.  
+It allows users to search, view, and interact with GIFs in real-time.
+
+## Features
+- Search GIFs by keywords
+- View trending GIFs
+- Interactive UI with React components
